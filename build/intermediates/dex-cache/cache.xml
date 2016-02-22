@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kinesis/1.10.0/e645def32ad7dec75e8507b985733a9dab97ce20/aws-java-sdk-kinesis-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e645def32ad7dec75e8507b985733a9dab97ce20">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-kinesis-1.10.0_8730df4707abb74e8a5d44051be7963313ff70e4.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_cdae4a0ab0522261e5f8ff44fe37840b0d9dae47.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sns/1.10.0/a4c89f96200945f61cf8353b27e1742912385d8a/aws-java-sdk-sns-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4c89f96200945f61cf8353b27e1742912385d8a">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-sns-1.10.0_d330fe7889c7ff3090ad864123257320559af7d1.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscaling/1.10.0/397122c95bc5ac24fae7d76910d41950a8a4cd5c/aws-java-sdk-autoscaling-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="397122c95bc5ac24fae7d76910d41950a8a4cd5c">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-autoscaling-1.10.0_6b41919ea12cf66f44fc476948c4dec1f0f7fc06.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lambda/1.10.0/d186cb6d7f28ac6a2258ed666c9d1633ec97c9fe/aws-java-sdk-lambda-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d186cb6d7f28ac6a2258ed666c9d1633ec97c9fe">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-lambda-1.10.0_772274ad3a0e13ce53ea679ed7ae9eb2fda030c9.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simpledb/1.10.0/ab48b9de380883e21de49612e2dd8d4c1076ee3a/aws-java-sdk-simpledb-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ab48b9de380883e21de49612e2dd8d4c1076ee3a">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-simpledb-1.10.0_d7fa94f7180b541a8822ce36c0ff6907d9a12eb4.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-support/1.10.0/e4db1a36c9f65c52c2d25cf349dbffc5265c7c93/aws-java-sdk-support-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4db1a36c9f65c52c2d25cf349dbffc5265c7c93">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-support-1.10.0_b28252b3cd60e68407314e2d89a21c78fde0665c.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-swf-libraries/1.10.0/a65ce811419cf928cfd57372fdd7e2e8de6fe1cc/aws-java-sdk-swf-libraries-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a65ce811419cf928cfd57372fdd7e2e8de6fe1cc">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-swf-libraries-1.10.0_0b653c5578b9db1b16cca710777547f681a09f40.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ecs/1.10.0/aa28dd4b68134b71e1a7139f7f54ecf2233be72a/aws-java-sdk-ecs-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa28dd4b68134b71e1a7139f7f54ecf2233be72a">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-ecs-1.10.0_69bbd47cf89b2222c932b2d3c6dbbd26af31edfa.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_6d6f9da6d8adcabddb8c9f939a023bf5e81f988a.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_06f4eecba09b011c248c8cec40720977c80a1c43.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitosync/1.10.0/8c75e83044a9b791878cd216aa88147c8a393867/aws-java-sdk-cognitosync-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c75e83044a9b791878cd216aa88147c8a393867">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cognitosync-1.10.0_4d6121796c6a8b627b49dafd66ae7339552eaf63.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_22e4a5c1e8b594e89efbbeedbd081a78c36c9354.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-importexport/1.10.0/4e1a84fd9fa11ff286fcdc2dded6b5e3d92ebde0/aws-java-sdk-importexport-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e1a84fd9fa11ff286fcdc2dded6b5e3d92ebde0">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-importexport-1.10.0_276728c4cd37ce16a561976ea098d1cd9aed8fd6.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.8/9f2785d7184b97d005a44241ccaf980f43b9ccdb/joda-time-2.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9f2785d7184b97d005a44241ccaf980f43b9ccdb">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/joda-time-2.8_749a1e4080d2f2d25622f28622ae0f338f8f51a7.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_30e45bae6aa027cfacb4fc804e03a0189bdaefb4.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simpleworkflow/1.10.0/a1f3f98068379b4b6055e55b11a470b6a382a2d5/aws-java-sdk-simpleworkflow-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a1f3f98068379b4b6055e55b11a470b6a382a2d5">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-simpleworkflow-1.10.0_e5793ee950d169ee0e47358dccda07217aa7958f.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_a4fec1e7d891b1d92ead24c177375a30fec23786.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-opsworks/1.10.0/6b8f7d4f47622cc51e4800eccbc7fad449eaf968/aws-java-sdk-opsworks-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6b8f7d4f47622cc51e4800eccbc7fad449eaf968">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-opsworks-1.10.0_7fd963b07c69430f0e4adeb7d1c1526d2e6bafd9.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_efcb8b66f02bae15f21c8b834e73f06217de4dfa.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-rds/1.10.0/a838dc0305ad827c8a8366ceb163b632c31369f9/aws-java-sdk-rds-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a838dc0305ad827c8a8366ceb163b632c31369f9">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-rds-1.10.0_15eeb69e5e3b352e5bf5a8c3fb8441c9974b08b8.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_b481ea54581e167388245d48120a9d7d9483e699.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ses/1.10.0/dbe7502a4de034870d4a4148dbdc84a3ad930956/aws-java-sdk-ses-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dbe7502a4de034870d4a4148dbdc84a3ad930956">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-ses-1.10.0_6918f69acd1f6233c023f092f127adb1691d7ea1.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudformation/1.10.0/6ed114810c422eb4e00823746353d10beed9ff21/aws-java-sdk-cloudformation-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ed114810c422eb4e00823746353d10beed9ff21">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cloudformation-1.10.0_a7cd619ede37b9ea668a0726c0ac7f24aea9b8da.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-config/1.10.0/9010d3cad6af2f8aecd118167ab3c46da1aa98d5/aws-java-sdk-config-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9010d3cad6af2f8aecd118167ab3c46da1aa98d5">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-config-1.10.0_12fbeb8bb08ff77c4d9412540e2a40165c926c17.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_7e6a79dcc8e74ba9583b68d25c53288ca22ff263.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_51ca5d1a5b06c0826aa89cb043cba2cbcd54d66d.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.10.0/48f0aab551fa9e2eb4c81e2debf40e9fff595405/aws-java-sdk-kms-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="48f0aab551fa9e2eb4c81e2debf40e9fff595405">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-kms-1.10.0_fc259066d5bf17bf9ffd19072e70e943c54b6b0e.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.10.0/891e42d29e8f9474f83c050e4ee6a4512d4f4e71/aws-java-sdk-s3-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="891e42d29e8f9474f83c050e4ee6a4512d4f4e71">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-s3-1.10.0_8f60e745ecf7e107ca620fac9922c060a0129914.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudsearch/1.10.0/4f05fc8683fdc88433ed557229ed02c07a2a835c/aws-java-sdk-cloudsearch-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f05fc8683fdc88433ed557229ed02c07a2a835c">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cloudsearch-1.10.0_bfd046bac1d28cfcfd154ba288e34364abbccb70.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_d9f763465ff854165a228ac7a1cd2654cbf88848.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_e434c94342c3fe72b52b76b8a1c388c40d521586.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_0dda4ef83b913d765ed7d7edf4181439fb419fd2.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.10.0/9732a4e80aad23101faa442700c2172a37257c43/aws-java-sdk-core-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9732a4e80aad23101faa442700c2172a37257c43">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-core-1.10.0_d6e40259ed685f8cecafbd992c7aea47a14c246b.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitoidentity/1.10.0/8fed899ee3743cc6d66b4efb7cec7afc0c8b685d/aws-java-sdk-cognitoidentity-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8fed899ee3743cc6d66b4efb7cec7afc0c8b685d">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cognitoidentity-1.10.0_90f7936ec62d38c62f4c39f2eed618fea363d5b7.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_1f764964f998e4c0aea0aaf176131aff1daffaaf.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticloadbalancing/1.10.0/6ea97065605b2554eb2f1405902346d09af7f0a9/aws-java-sdk-elasticloadbalancing-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ea97065605b2554eb2f1405902346d09af7f0a9">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-elasticloadbalancing-1.10.0_af50fa2fa752cf67444bbd61e8a6123ce7eb9317.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_c00566b86c6e820ce1b8736c0be891f560676572.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dynamodb/1.10.0/2bffe94788b49f8829375c26d79d494737724d30/aws-java-sdk-dynamodb-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2bffe94788b49f8829375c26d79d494737724d30">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-dynamodb-1.10.0_35cc9a3f900cd97b0cbc352555e382db61cd75b8.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codedeploy/1.10.0/11137a65301d0c9b50998ab40428db74272b8dba/aws-java-sdk-codedeploy-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11137a65301d0c9b50998ab40428db74272b8dba">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-codedeploy-1.10.0_eaa369ac1a27b88b0185f39f142693366e085894.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticbeanstalk/1.10.0/193b2d1820b5a8f7eca8c8fdd88cd6bc8789c785/aws-java-sdk-elasticbeanstalk-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="193b2d1820b5a8f7eca8c8fdd88cd6bc8789c785">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-elasticbeanstalk-1.10.0_d4816367b4ae8fd80d1f51d19aec9f7347e64597.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ec2/1.10.0/b5dc3760021fba0ae67b4f11d37ffa52a4eac4f4/aws-java-sdk-ec2-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5dc3760021fba0ae67b4f11d37ffa52a4eac4f4">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-ec2-1.10.0_f960955166b415925aa2e6c5b12ea36cfd59e8d3.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_f61e985868c39b44da79fc12657485a590773a91.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/c37875ff66127d93e5f672708cb2dcc14c8232ab/jackson-databind-2.5.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c37875ff66127d93e5f672708cb2dcc14c8232ab">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/jackson-databind-2.5.3_ad99e027130a7269bc6e0e9c86352b84288e5088.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-workspaces/1.10.0/91554da7868ad69344f5056a255d45f807ed3b04/aws-java-sdk-workspaces-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="91554da7868ad69344f5056a255d45f807ed3b04">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-workspaces-1.10.0_41c96ff074a7049d98d132623fa144e6f8d6ff56.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_5702c2b6b1f449cc6fd8bc2ca869956376bc0955.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.10.0/26b3c2ab128245ef2997c1081a4ebce6b0e90a41/aws-java-sdk-emr-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="26b3c2ab128245ef2997c1081a4ebce6b0e90a41">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-emr-1.10.0_15eba34f6015cc27333b8601e1f21ddfd74f242a.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-directory/1.10.0/728f7d17cf1a7a91568b3d55e334ebbc79a50780/aws-java-sdk-directory-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="728f7d17cf1a7a91568b3d55e334ebbc79a50780">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-directory-1.10.0_1b5e6ff009d49d5ef647f87c6a78dd3b42d1c376.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_27118ac079f5530223751f9d0a7c3ae7d3f8ac5a.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatch/1.10.0/3afdd0e23f28466eecb1122d1e3737f3fa605d2b/aws-java-sdk-cloudwatch-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3afdd0e23f28466eecb1122d1e3737f3fa605d2b">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cloudwatch-1.10.0_d8fe65f086e500874fe2b7eeda721120ba74961c.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-datapipeline/1.10.0/6e5cfbf7cb1e62aa406daabfb249bdeac86484fe/aws-java-sdk-datapipeline-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e5cfbf7cb1e62aa406daabfb249bdeac86484fe">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-datapipeline-1.10.0_8e5c749f60fd0857e53ebacaae1bcf75b7bb8eeb.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticache/1.10.0/3b58ac0937e3b9853887bb9aa9b1d06cb6ed12d3/aws-java-sdk-elasticache-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b58ac0937e3b9853887bb9aa9b1d06cb6ed12d3">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-elasticache-1.10.0_5b860aad50ef1190ca3ebf111e7e8984fa5e7ebe.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_86e3bb1ce61e2b30491f833f2e7ccb596fd0dcfb.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_4984133e9bc8f7ef56e3a219a760194fddd88380.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-efs/1.10.0/303f732f97dd9195e0e3b8f0d2f5c31617f9592/aws-java-sdk-efs-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0303f732f97dd9195e0e3b8f0d2f5c31617f9592">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-efs-1.10.0_d604753336f91b98200d100c27dece35c6721d6e.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-machinelearning/1.10.0/f876ad30451ac72b11a58025cce4db1cc8bbdb5f/aws-java-sdk-machinelearning-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f876ad30451ac72b11a58025cce4db1cc8bbdb5f">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-machinelearning-1.10.0_c87bf55d9806496d7e81aedc244e0c12e9c66aa1.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatchmetrics/1.10.0/41eab27185aa836d5fa1f47391f22a9575ec88ad/aws-java-sdk-cloudwatchmetrics-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41eab27185aa836d5fa1f47391f22a9575ec88ad">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cloudwatchmetrics-1.10.0_2c4ed68ed91007e0c786cb057ebfab5349078230.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ssm/1.10.0/ebbcc36f5d75c95ba06af1015295908b40da3038/aws-java-sdk-ssm-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ebbcc36f5d75c95ba06af1015295908b40da3038">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-ssm-1.10.0_8d6fe547b3da67d036b6bfe4493eeb5a8ad5da02.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iam/1.10.0/17b694d5b735c118408f0d75cc5f7f9954ba1da4/aws-java-sdk-iam-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17b694d5b735c118408f0d75cc5f7f9954ba1da4">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-iam-1.10.0_d2faa36c6037bc8271c833bf91168580466cb7cf.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_cb66ea28d290752e6238393a7c12a807c631b0ef.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudhsm/1.10.0/1b7b8f7c48214fc5a4488d8a0d8829758e45745f/aws-java-sdk-cloudhsm-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b7b8f7c48214fc5a4488d8a0d8829758e45745f">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cloudhsm-1.10.0_debb34dde51a47b305edcd824406e19c5f3ac7e6.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sts/1.10.0/8ba791997a02f1dc5f70eee2a57e9a918ae3d39e/aws-java-sdk-sts-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ba791997a02f1dc5f70eee2a57e9a918ae3d39e">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-sts-1.10.0_30cba5073aa57c3ebdf46281ce0e823fe6e4d2a0.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_dd825a0b92e7be62815d03085852117e5dccdab8.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-storagegateway/1.10.0/c7bf7959506bbc6d913f9d3669a13cede83b5314/aws-java-sdk-storagegateway-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c7bf7959506bbc6d913f9d3669a13cede83b5314">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-storagegateway-1.10.0_0f1e59b073b4a8be927711d664afae2e2680ed7d.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudtrail/1.10.0/c97e459ac89e532a4c3c28519e2bf471c67a4f4d/aws-java-sdk-cloudtrail-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c97e459ac89e532a4c3c28519e2bf471c67a4f4d">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cloudtrail-1.10.0_d3d9024749d81b532235fc0544dfc36b84fe214f.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_96e9bb7b76ce11f78e3b7fb11a8f9d8432e257f5.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-glacier/1.10.0/1b05bd17b78488b32a5e4e958fd5c65453914155/aws-java-sdk-glacier-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b05bd17b78488b32a5e4e958fd5c65453914155">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-glacier-1.10.0_a41c7db569e8e14b718cea06c65b09638de8e7e5.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_b8fe496583d94ffae1479cdb5139c609a12dd8e8.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_d193174bc22998ca0a73ff2b836ecfecc0798613.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sqs/1.10.0/b216d729a33b695fc291e2df7ac08f931b54d83d/aws-java-sdk-sqs-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b216d729a33b695fc291e2df7ac08f931b54d83d">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-sqs-1.10.0_c3ccde3dabd8996db257388a6fe2dfe669d32b10.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_165d2f56894521cf66808e92c7af470600841c76.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_216c990ae5f6564feaaa0ca8e01f1de8e431ae86.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.3/a8b8a6dfc8a17890e4c7ff8aed810763d265b68b/jackson-core-2.5.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8b8a6dfc8a17890e4c7ff8aed810763d265b68b">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.3_494c8607213fdfae263f35798e90eb37ae68f379.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53/1.10.0/60a9fd6b3b6e08db896b9e6e63221db0441e0fe5/aws-java-sdk-route53-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60a9fd6b3b6e08db896b9e6e63221db0441e0fe5">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-route53-1.10.0_f4abdd7f4eb7aae5b3075a709ad90b90d48c8e53.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-redshift/1.10.0/66fa66e5989d9118ff6939d9ba0ecc3d943ca557/aws-java-sdk-redshift-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66fa66e5989d9118ff6939d9ba0ecc3d943ca557">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-redshift-1.10.0_b225fea27be25fa022885dd0a55ccc64d368f66e.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.5.0_65cdddf873daf3c19f78c90ceea7a99dacdd5125.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elastictranscoder/1.10.0/59f2c768710b66e4f3b401851e01e54e62436176/aws-java-sdk-elastictranscoder-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f2c768710b66e4f3b401851e01e54e62436176">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-elastictranscoder-1.10.0_7e512f235b3030eae6d40f5ea783bf7e468133a3.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_396ea2f5b2831acefc9440812fe139f558b01571.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudfront/1.10.0/e7fc45bb90a1969ede13c7fcb1f1a43701caea98/aws-java-sdk-cloudfront-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7fc45bb90a1969ede13c7fcb1f1a43701caea98">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-cloudfront-1.10.0_3f6799885af5e77cb09f19154afe3c9c08a35f62.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-directconnect/1.10.0/ae30cf8672f2dc1675caeaef3f7d3348691d73fd/aws-java-sdk-directconnect-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ae30cf8672f2dc1675caeaef3f7d3348691d73fd">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-directconnect-1.10.0_9dd71319b3b95b6888b6c23e47468ef4f0255919.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-logs/1.10.0/54868e971b0e200ccfed86ddf2a812211890f254/aws-java-sdk-logs-1.10.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="54868e971b0e200ccfed86ddf2a812211890f254">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/aws-java-sdk-logs-1.10.0_db6bcf1ea1d41a24fadcb80e3a8ae1ce200c600f.jar" />
+    </item>
+    <item
+        jar="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/icanul/AndroidStudioProjects/AndroidMobilePushApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_31d2737b47912023c450d3863d8eb54b1ae0c2e4.jar" />
+    </item>
+
+</items>
