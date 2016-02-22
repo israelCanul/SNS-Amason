@@ -5,7 +5,7 @@ versiones de  aw: 2.2.12</br>
 sdk-cognito</br>
 sdk-core</br>
 sdk-sns </br>
-</br></br></br
+</br></br>
 Librerias usadas</br></br>
 
 com.android.support:support-v4:23.1.1</br>
