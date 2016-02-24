@@ -3,13 +3,26 @@
     <string name="app_name">Amazon Mobile Push</string>
     <string name="action_settings">Settings</string>
     <!-- TODO: Enter your project number -->
-    <string name="project_number">####925##38#</string>
+    <string name="project_number">##########</string>
     <string name="introduction">Welcome! </string>
     <string name="clear_screen">Clear Screen</string>
     <string name="first_launch">First Launch</string>
     <string name="num_of_missed_messages">MissedMessageCount</string>
     <string name="lines_of_message_count">LinesOfMessageCount</string>
-    <string name="preferences">PreferencesFile</string>
+    <string name="preferences">PreferencesFile</string>s
     <string name="notification_number">1337</string>
     <string name="google_app_id">############</string>
+
+    <!-- TODO: Preferences -->
+    <string name="PROPERTY_USER">PROPERTY_USER</string>
+    <string name="PROPERTY_REG_ID">PROPERTY_REG_ID</string>
+    <string name="PROPERTY_APP_VERSION">PROPERTY_APP_VERSION</string>
+    <string name="PROPERTY_EXPIRATION_TIME">PROPERTY_EXPIRATION_TIME</string>
+    <string name="appVersion">uno</string>
+    <string name="credential">########</string>
+    <string name="secret_credential">###########</string>
+    <string name="platformApplicationArn">arn:aws:sns:us-west-2:02###2625031:app/GCM/#######</string>
+    <string name="postdetails">post detalles</string>
+
+    <integer name="appVersion">1</integer>
 </resources>

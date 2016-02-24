@@ -29,6 +29,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import androidtest.amazonaws.com.androidmobilepushapp.GCM.GCMIntentService;
+
 
 // Requires Android 2.2 or higher, Google Play Services on the target device, and an active google account on the device.
 
@@ -45,26 +47,25 @@ public class AndroidMobilePushApp extends Activity {
         numOfMissedMessages = getString(R.string.num_of_missed_messages);
         setContentView(R.layout.activity_main);
         tView = (TextView) findViewById(R.id.tViewId);
-        String a="hola";
 
         /*tView.setMovementMethod(LinkMovementMethod.getInstance());*/
         tView.setMovementMethod(new ScrollingMovementMethod());
-       startService(new Intent(this, MessageReceivingService.class));
+        startService(new Intent(this, GCMIntentService.class));
     }
 
     public void onStop(){
         super.onStop();
-        inBackground = true;
+        //inBackground = true;
     }
 
     public void onRestart(){
         super.onRestart();
-        tView.setText("");
+        //tView.setText("");
     }
 
     public void onResume(){
         super.onResume();
-        inBackground = false;
+        /*inBackground = false;
         savedValues = MessageReceivingService.savedValues;
         int numOfMissedMessages = 0;
         if(savedValues != null){
@@ -74,7 +75,9 @@ public class AndroidMobilePushApp extends Activity {
         if(!newMessage.equals("")){
             Log.i("displaying message", newMessage);
             tView.append(newMessage);
-        }
+        }*/
+        NotificationManager mNotification = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+        mNotification.cancel(R.string.notification_number);
     }
 
     public void onNewIntent(Intent intent){
@@ -83,7 +86,7 @@ public class AndroidMobilePushApp extends Activity {
     }
 
     // If messages have been missed, check the backlog. Otherwise check the current intent for a new message.
-    private String getMessage(int numOfMissedMessages) {
+    /*private String getMessage(int numOfMissedMessages) {
         String message = "";
         String linesOfMessageCount = getString(R.string.lines_of_message_count);
         if(numOfMissedMessages > 0){
@@ -91,7 +94,7 @@ public class AndroidMobilePushApp extends Activity {
             Log.i("App:onResume", "missed " + numOfMissedMessages + " message" + plural);
             tView.append("You missed " + numOfMissedMessages +" message" + plural + ". Your most recent was:\n");
             for(int i = 0; i < savedValues.getInt(linesOfMessageCount, 0); i++){
-                String line = savedValues.getString("App:MessageLine"+i, "");
+                String line = savedValues.getString("Contenido-"+i, "");
                 message+= (line + "\n");
             }
             NotificationManager mNotification = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
@@ -115,7 +118,7 @@ public class AndroidMobilePushApp extends Activity {
         }
         message+="\n";
         return message;
-    }
+    }*/
 
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
